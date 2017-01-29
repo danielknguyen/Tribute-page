@@ -1,0 +1,37 @@
+.container {
+  border-radius:10px;
+  margin:20px auto;
+  background:#D6D6D6;
+}
+#logo {
+  height:75px;
+  width:80px;
+  margin-left:-30px;
+}
+blockquote p {
+  font-family:anglecia;
+  font-style:italic;
+  word-spacing:2px;
+  max-width:400px;
+  margin:0 auto;
+}
+.date {
+  font-weight:bold;
+}
+.city {
+  font-style:italic;
+}
+.book {
+  font-weight:bold;
+  font-style:italic;
+}
+.g-h-b-b {
+  font-style:italic;
+}
+.movie-icon {
+  height:130px;
+  width:125px;
+}
+.wiki-link {
+  border-bottom:1px solid #D6D6D6;
+}
