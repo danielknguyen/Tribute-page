@@ -35,3 +35,10 @@ blockquote p {
 .wiki-link {
   border-bottom:1px solid #D6D6D6;
 }
+#n-film {
+  margin-left:-25px;
+}
+#table {
+  height:30%;
+  overflow:auto;
+}
